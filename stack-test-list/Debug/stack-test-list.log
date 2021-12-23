@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Администратор\source\repos\Queue\stacklist\stack.h(105): warning C4715: 'TLStack<int>::operator=': not all control paths return a value
+  stack-test-list.vcxproj -> C:\Users\Администратор\source\repos\Queue\Debug\stack-test-list.exe

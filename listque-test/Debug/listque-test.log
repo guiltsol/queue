@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (queue2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  test.cpp
+C:\Users\Администратор\source\repos\Queue\listque-test\test.cpp(133,2): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Администратор\source\repos\Queue\listque-test\test.cpp(134,2): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Администратор\source\repos\Queue\listque-test\test.cpp(135,2): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Администратор\source\repos\Queue\queue2\que2.h(106): warning C4715: 'TLQueue<int>::operator=': not all control paths return a value
+  listque-test.vcxproj -> C:\Users\Администратор\source\repos\Queue\Debug\listque-test.exe

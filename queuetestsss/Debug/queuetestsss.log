@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Администратор\source\repos\Queue\queuetestsss\test.cpp(206,2): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Администратор\source\repos\Queue\queuetestsss\test.cpp(207,2): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Администратор\source\repos\Queue\queuetestsss\test.cpp(208,2): warning C4553: '==': result of expression not used; did you intend '='?
+  queuetestsss.vcxproj -> C:\Users\Администратор\source\repos\Queue\Debug\queuetestsss.exe
