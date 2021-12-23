@@ -1,0 +1,3 @@
+C:\Users\Администратор\source\repos\Queue\formqueue\Debug\formqueue.vcxproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Queue\formqueue\Debug\formqueue.MyForm.resources
+C:\Users\Администратор\source\repos\Queue\formqueue\Debug\formqueue.vcxproj.GenerateResource.cache

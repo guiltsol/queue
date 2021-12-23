@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Администратор\source\repos\Queue\stacklist\calc.h(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Администратор\source\repos\Queue\stacklist\calc.h(85,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Администратор\source\repos\Queue\stacklist\calc.h(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Администратор\source\repos\Queue\stacklist\calc.h(211,21): warning C4018: '<': signed/unsigned mismatch
+  stacklist.vcxproj -> C:\Users\Администратор\source\repos\Queue\Debug\stacklist.exe
